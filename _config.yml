@@ -23,7 +23,7 @@ email: parr.karen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wellington New Zealand Garden make-overs and external staging to sell your house. 📱: 027 209 4832
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kerbappeal.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kerbappeal.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
