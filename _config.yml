@@ -22,7 +22,7 @@ title: Kerb Appeal, Wellington New Zealand
 email: parr.karen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wellington New Zealand Garden make-overs and external staging to sell your house. 📱: 027 209 4832
-baseurl: "/kerbappeal" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "kerbappeal.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
